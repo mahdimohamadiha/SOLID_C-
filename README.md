@@ -13,3 +13,9 @@
 <p>
   The Open-Closed Principle States that Software entities, such as modules, classes, functions, etc., should be open for Extension but closed for Modification.
 </p>
+
+## What is the Liskov Substitution Principle?
+
+<p>
+  The Liskov Substitution Principle is a Substitutability principle in object-oriented programming Language. This principle states that if S is a subtype of T, then objects of type T should be replaced with objects of type S.
+</p>
