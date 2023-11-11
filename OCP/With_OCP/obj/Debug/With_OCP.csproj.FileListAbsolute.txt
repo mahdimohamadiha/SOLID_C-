@@ -1,0 +1,8 @@
+D:\.NET\SOLID\SOLID_Csharp\OCP\With_OCP\bin\Debug\With_OCP.exe.config
+D:\.NET\SOLID\SOLID_Csharp\OCP\With_OCP\bin\Debug\With_OCP.exe
+D:\.NET\SOLID\SOLID_Csharp\OCP\With_OCP\bin\Debug\With_OCP.pdb
+D:\.NET\SOLID\SOLID_Csharp\OCP\With_OCP\obj\Debug\With_OCP.csproj.AssemblyReference.cache
+D:\.NET\SOLID\SOLID_Csharp\OCP\With_OCP\obj\Debug\With_OCP.csproj.SuggestedBindingRedirects.cache
+D:\.NET\SOLID\SOLID_Csharp\OCP\With_OCP\obj\Debug\With_OCP.csproj.CoreCompileInputs.cache
+D:\.NET\SOLID\SOLID_Csharp\OCP\With_OCP\obj\Debug\With_OCP.exe
+D:\.NET\SOLID\SOLID_Csharp\OCP\With_OCP\obj\Debug\With_OCP.pdb

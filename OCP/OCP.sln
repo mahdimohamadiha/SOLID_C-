@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "With_OCP", "With_OCP\With_OCP.csproj", "{0708279F-6C58-40B8-BE0D-4F7394B22CFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Without_OCP", "Without_OCP\Without_OCP.csproj", "{BEBDE510-9829-4699-B71E-F5755DB04540}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0708279F-6C58-40B8-BE0D-4F7394B22CFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0708279F-6C58-40B8-BE0D-4F7394B22CFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0708279F-6C58-40B8-BE0D-4F7394B22CFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0708279F-6C58-40B8-BE0D-4F7394B22CFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEBDE510-9829-4699-B71E-F5755DB04540}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEBDE510-9829-4699-B71E-F5755DB04540}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEBDE510-9829-4699-B71E-F5755DB04540}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEBDE510-9829-4699-B71E-F5755DB04540}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1593C9DA-E275-44CE-B9BD-DA438BFEA401}
+	EndGlobalSection
+EndGlobal
