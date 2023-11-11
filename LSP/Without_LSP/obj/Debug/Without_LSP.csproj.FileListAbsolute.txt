@@ -1,0 +1,8 @@
+D:\.NET\SOLID\SOLID_Csharp\LSP\Without_LSP\bin\Debug\Without_LSP.exe.config
+D:\.NET\SOLID\SOLID_Csharp\LSP\Without_LSP\bin\Debug\Without_LSP.exe
+D:\.NET\SOLID\SOLID_Csharp\LSP\Without_LSP\bin\Debug\Without_LSP.pdb
+D:\.NET\SOLID\SOLID_Csharp\LSP\Without_LSP\obj\Debug\Without_LSP.csproj.AssemblyReference.cache
+D:\.NET\SOLID\SOLID_Csharp\LSP\Without_LSP\obj\Debug\Without_LSP.csproj.SuggestedBindingRedirects.cache
+D:\.NET\SOLID\SOLID_Csharp\LSP\Without_LSP\obj\Debug\Without_LSP.csproj.CoreCompileInputs.cache
+D:\.NET\SOLID\SOLID_Csharp\LSP\Without_LSP\obj\Debug\Without_LSP.exe
+D:\.NET\SOLID\SOLID_Csharp\LSP\Without_LSP\obj\Debug\Without_LSP.pdb
