@@ -1,0 +1,8 @@
+D:\.NET\SOLID\SOLID_Csharp\ISP\With_ISP\bin\Debug\With_ISP.exe.config
+D:\.NET\SOLID\SOLID_Csharp\ISP\With_ISP\bin\Debug\With_ISP.exe
+D:\.NET\SOLID\SOLID_Csharp\ISP\With_ISP\bin\Debug\With_ISP.pdb
+D:\.NET\SOLID\SOLID_Csharp\ISP\With_ISP\obj\Debug\With_ISP.csproj.AssemblyReference.cache
+D:\.NET\SOLID\SOLID_Csharp\ISP\With_ISP\obj\Debug\With_ISP.csproj.SuggestedBindingRedirects.cache
+D:\.NET\SOLID\SOLID_Csharp\ISP\With_ISP\obj\Debug\With_ISP.csproj.CoreCompileInputs.cache
+D:\.NET\SOLID\SOLID_Csharp\ISP\With_ISP\obj\Debug\With_ISP.exe
+D:\.NET\SOLID\SOLID_Csharp\ISP\With_ISP\obj\Debug\With_ISP.pdb
