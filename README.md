@@ -25,3 +25,9 @@
 <p>
   The Interface Segregation Principle states Clients should not be forced to implement any methods they don’t use. Rather than one fat interface, numerous little interfaces are preferred based on groups of methods, with each interface serving one submodule.
 </p>
+
+## What is the Dependency Inversion Principle?
+
+<P>
+  The Dependency Inversion Principle states that High-Level Modules/Classes should not depend on Low-Level Modules/Classes. Both should depend upon Abstractions. Secondly, Abstractions should not depend upon Details. Details should depend upon Abstractions.
+</P>
