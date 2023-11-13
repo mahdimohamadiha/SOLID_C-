@@ -19,3 +19,9 @@
 <p>
   The Liskov Substitution Principle is a Substitutability principle in object-oriented programming Language. This principle states that if S is a subtype of T, then objects of type T should be replaced with objects of type S.
 </p>
+
+## What is the Interface Segregation Principle?
+
+<p>
+  The Interface Segregation Principle states Clients should not be forced to implement any methods they don’t use. Rather than one fat interface, numerous little interfaces are preferred based on groups of methods, with each interface serving one submodule.
+</p>
