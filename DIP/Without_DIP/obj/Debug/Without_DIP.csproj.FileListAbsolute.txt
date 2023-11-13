@@ -1,0 +1,8 @@
+D:\.NET\SOLID\SOLID_Csharp\DIP\Without_DIP\bin\Debug\Without_DIP.exe.config
+D:\.NET\SOLID\SOLID_Csharp\DIP\Without_DIP\bin\Debug\Without_DIP.exe
+D:\.NET\SOLID\SOLID_Csharp\DIP\Without_DIP\bin\Debug\Without_DIP.pdb
+D:\.NET\SOLID\SOLID_Csharp\DIP\Without_DIP\obj\Debug\Without_DIP.csproj.AssemblyReference.cache
+D:\.NET\SOLID\SOLID_Csharp\DIP\Without_DIP\obj\Debug\Without_DIP.csproj.SuggestedBindingRedirects.cache
+D:\.NET\SOLID\SOLID_Csharp\DIP\Without_DIP\obj\Debug\Without_DIP.csproj.CoreCompileInputs.cache
+D:\.NET\SOLID\SOLID_Csharp\DIP\Without_DIP\obj\Debug\Without_DIP.exe
+D:\.NET\SOLID\SOLID_Csharp\DIP\Without_DIP\obj\Debug\Without_DIP.pdb
